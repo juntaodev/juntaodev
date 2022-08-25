@@ -1,6 +1,6 @@
 ### I am Juntao Liu
 
-- 🔭 I'm a Software Engineer & Front end developer who is passionate about Web Development and open source.
+- 🔭 I'm a Software Engineer & Front End Developer who is passionate about Web Development and open source.
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. 
 
